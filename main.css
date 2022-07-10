@@ -1,0 +1,65 @@
+.one {
+    color: rgb(45, 124, 98);
+    font-size: 40px;
+    font-family: 'Fjalla One';
+    text-align: center;
+}
+
+.two {
+    color: blueviolet;
+    font-size: 20px;
+    font-family: 'Pacifico';
+    margin: 0;
+}
+
+.four {
+    color: rgb(35, 199, 199);
+    font-size: 20px;
+    font-family: 'Barlow Condensed';
+    margin-top: 0px;
+    box-sizing: border-box;
+}
+
+.ei {
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.sev{
+    color: rgb(45, 124, 98);
+    font-size: 40px;
+    font-family: 'Fjalla One';
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+.th {
+    width: 350px;
+}
+
+.five {
+    width: 400px;
+}
+
+.six {
+    width: 350px;
+}
+
+.zo {
+    width: 475px;
+    border: 4px solid gray;
+}
+.zt {
+    width: 400px;
+    border: 4px solid gray;
+}
+.zth {
+    width: 400px;
+    border: 4px solid gray;
+}
+.zf {
+    width: 400px;
+    border: 4px solid gray;
+}
